@@ -1,0 +1,81 @@
+/* 
+*{
+    box-sizing: border-box;
+} */
+
+/* Navigation Layout */
+#navBar {
+    padding: 0;
+    height: 65px;
+
+}
+
+.navBar {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    padding-top: 3px;
+    font-weight: bolder;
+}
+
+.nav-link {
+    display: inline-block;
+    color: #0B3954;
+    padding: 20px 20px 23px 20px;
+    padding-top: 20px;
+    padding-bottom: 23px;
+    height: 65px;
+    margin: 0;
+}
+
+.navbar-brand {
+    color: #0B3954;
+    position: relative;
+    font-size: 36px;
+    font-weight: 200;
+    vertical-align: center;
+    margin-left: 25%;
+    opacity: 90%;
+    text-decoration: underline;
+    text-decoration-color: #0B3954; 
+}
+
+
+svg {
+    font-size: 40px;
+}
+
+
+.sM {
+    padding: 17px;
+    
+}
+
+a {
+    word-spacing: 7px;
+    text-decoration: none;
+}
+
+
+.nav-link:hover {
+    color: white;
+    background-color: #0B3954;
+    opacity: 70%;
+}
+
+#aboutMeContainer{
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: #0B3954;
+    width: 50%;
+    margin-top: 50px;
+}
+
+#aboutMeParagraph{
+    color: #0B3954;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+
+footer {
+    margin-top: 30px;
+}

@@ -1,0 +1,81 @@
+#skills {
+    background-color: #0B3954; 
+    opacity: 95%;
+    color: white;
+}
+
+/* Remove underline from Name */
+#name {
+    text-decoration: none;
+}
+
+/* Name link  */
+#name:hover{
+    text-decoration: underline;
+    text-decoration-color: #0B3954;
+}
+
+#resume {
+    width: 75%;
+    margin-top: 5%;
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+.row {
+    margin-top: 2px;
+}
+
+li {
+    list-style-type:square;
+    margin: 10px;
+}
+
+#skillList li {
+    margin-top: 8px; 
+}
+
+#dates {
+    text-align: right;
+}
+
+#company {
+    margin-left: 12px;
+    font-size: large;
+}
+
+#position {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#program {
+    margin-left: 12px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#expRow1 {
+    height: 25px;
+    margin-top: 15px;
+}
+
+
+#experienceList {
+    border-bottom: dotted;
+    border-width: 3px;
+}
+
+.card-header {
+    text-decoration: underline;
+}
+.card {
+    margin-top: 8px;
+}
+
+#education {
+    margin-bottom: 20px;
+}
+
+#schoolDates {
+    text-align: right;
+    margin-right:10px;
+}
